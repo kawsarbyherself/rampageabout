@@ -1,0 +1,104 @@
+
+
+body {
+    background-image:url("https://images.unsplash.com/photo-1628760584600-6c31148991e9?ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDIxfGlVSXNuVnRqQjBZfHxlbnwwfHx8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60");
+    background-size: 1300px;
+}
+
+.intro {
+    background-color: rgba(191, 235, 248, 0.644);
+    padding: 80px;
+    margin-top: 120px;
+    border:solid 2px #2980B9
+    
+}
+
+h3 {
+    color: #252525;
+    align-items: center;
+    margin-top: 60px;
+    block-size: 10px;
+    margin-left: -50px;
+    
+}
+
+
+
+h2 {
+    color: #252525;
+    margin-top: 50px;
+    margin-left: -50px;
+}
+
+
+h1 {
+    background-color: #f1f1f1;
+    color: black;
+    padding: 10px;
+    margin-top: -10px;
+
+}
+
+.tech {
+    color: #f1f1f1;
+    text-align: left;
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: 150px;
+    margin-left: 15px;
+    background-color: rgba(191, 235, 248, 0.644);
+    padding: 30px;
+    border-radius: 20px;
+    border:solid 2px #2980B9;
+   
+}
+
+.tech:hover {
+    background-color:rgba(53, 137, 163, 0.644);
+}
+
+.more {
+    color: #f1f1f1;
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 50px;
+    margin-left: 18px;
+}
+
+.aboutme {
+    color: #f1f1f1;
+    text-align: left;
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: 200px;
+    margin-left: 15px;
+    background-color: rgba(191, 235, 248, 0.644);
+    padding: 30px;
+    border-radius: 20px;
+    border:solid 2px #2980B9; 
+
+}
+
+.aboutme:hover {
+    background-color:rgba(53, 137, 163, 0.644);
+
+}
+   
+.bio {
+    color: #f1f1f1;
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 50px;
+    margin-left: 15px;
+}
+
+
+
+.contact {
+    color: #f1f1f1;
+    font-size: 20px;
+    margin-top: 450px;
+    margin-left: 50px;
+}
